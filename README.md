@@ -10,7 +10,7 @@ My focus and discipline is what sets me apart.
  ## ***Contact***
 
 <div>
-▪ <a align="center" href = "mailto:jonathasvazdesouza@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a align="center" href = "mailto:jonathasvazdesouza@gmail.com"><img align="center" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a align="center" href="https://www.linkedin.com/in/jonathas-vaz-05250a277/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
