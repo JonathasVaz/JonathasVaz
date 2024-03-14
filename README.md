@@ -8,7 +8,7 @@ I am a student of Analysis and Systems Development.
 *My focus and discipline is what sets me apart.*
       
 ##
-<img align="center" alt="Arnold-joinha" height="150" width="150" src="https://cdn.discordapp.com/attachments/589582412502007818/1217700055998533712/montagem-do-tumblr-thumbs--ammo-mostra-o-personagem-terminator-arnold-schwarzenegger-dando-joinha-em-vez-de-apontar-uma-arma-em-cena-do-filme-o-exterminador-do-futuro-1363809846474_300x300.png?ex=6604fa8d&is=65f2858d&hm=fca6ec67e484d30ce58ad21737846f7a3a098112f03f4eb1e5cc4498531c8f2d&"> 
+<img align="center" alt="memento-dowload" height="95" width="300" src="https://cdn.discordapp.com/attachments/589582412502007818/1217713360544731146/image.png?ex=660506f1&is=65f291f1&hm=a5292dd407aad5fd2520b23807873d6caf799df550b1b927f5c781ade16d9723&"> 
 
 
 
