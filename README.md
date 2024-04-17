@@ -8,7 +8,8 @@ I am a student of Analysis and Systems Development.
 *My focus and discipline is what sets me apart.*
       
 ##
-<img align="center" alt="mindset" height="140" width="140" src="https://cdn.discordapp.com/attachments/589582412502007818/1217714243265368074/image.png?ex=660507c3&is=65f292c3&hm=aaff73ef8ac4abe6097791121b9dc47a1055d48d8be05f4a058697fbf0c44a17&"> 
+<img align="center" alt="mindset" height="350" width="220" src="https://i.pinimg.com/564x/06/37/8c/06378c57115e2511001f9483dfee066f.jpg"> 
+
 
 
 
